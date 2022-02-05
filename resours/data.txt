@@ -1,5 +1,5 @@
-1
-oLIMPI
-False
+0
+
+True
 ru
 1.0
