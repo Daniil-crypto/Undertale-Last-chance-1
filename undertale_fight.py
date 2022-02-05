@@ -13,6 +13,7 @@ import time
 import pylint
 import pygame
 import data
+import sys
 
 from random import randint, uniform
 from pygame import Color, Surface
@@ -952,7 +953,7 @@ if __name__ == '__main__':
                     move_stop = False
             screen.blit(gr_men_d, (0, 500))
             font1 = pygame.font.Font("resours/sans.ttf", 1)
-            version = f7.render("v. 0.2.0", True, Color("gray"))
+            version = f7.render("v. 0.2.1", True, Color("gray"))
             screen.blit(version, (520, 0))
 
 

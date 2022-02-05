@@ -9,7 +9,7 @@ import data
 from atk import Atk
 from pygame import Color
 from atk_comb import Atk_comb
-from platform import Platform
+from platform_x import Platform
 from random import randint
 
 
